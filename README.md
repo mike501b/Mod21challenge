@@ -9,7 +9,7 @@
 ## CrowdSale Contract Contract Compiled
 ![](https://github.com/mike501b/Mod21challenge/blob/main/Crowdsale%20Contract%20compiled.png)
 
-## Buyig Kasei Coin for Ether
+## Buying Kasei Coin for Ether
 ![](https://github.com/mike501b/Mod21challenge/blob/main/Buying%20Kasei%20Coin%20for%20Ether.png)
 
 ## Using KaseiCoin contract to check balance of account
